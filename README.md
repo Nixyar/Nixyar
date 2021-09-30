@@ -1,13 +1,15 @@
 ### Hey there! I'm Oleg!
-<img alt="Night Coding" src="./Night-Coding.gif"/>\
+<img alt="Night Coding" src="./Night-Coding.gif"/>
 
 ##
 ### :octocat: About Me
+
 💻&nbsp;I'm pre-middle Frontend-developer:)\
 💁‍♂️&nbsp;Started my way in [Picasel Agency](https://picasel.agency/) ❤️\
 🎓&nbsp;I'm studied at the Moscow Institute of Radio Engineering, Electronics and Automation.\
 💡&nbsp;I enjoy learning and developing in frontend development. Constantly read articles and attend conferences.\
 🍤&nbsp;In my free time, I ride on snowboard, watch tech movies on YouTube and think about new project ideas.
+  
 ##
 ### 🛠 &nbsp;Tech Stack
 <p align="left"> 
@@ -25,7 +27,8 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nixyar&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-<!-- 
-##
-### 🤙 Connect with Me -->
 
+##
+### 🤙 Connect with Me
+  <a href="tg://resolve?domain=nixyar" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png" alt="telegram" width="50" height="50"/></a>&nbsp; 
+  <a href="https://www.linkedin.com/in/oleg-kozlov-4191a0217/" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="linkedin" width="50" height="50"/></a>&nbsp; 
