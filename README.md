@@ -24,6 +24,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/></a>&nbsp;
   <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>&nbsp;
   <a href="https://redux.js.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>&nbsp;
+  <a href="https://jestjs.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/></a>&nbsp;
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nixyar&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
@@ -32,3 +33,6 @@
 ### 🤙 Connect with Me
   <a href="tg://resolve?domain=nixyar" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png" alt="telegram" width="50" height="50"/></a>&nbsp; 
   <a href="https://www.linkedin.com/in/oleg-kozlov-4191a0217/" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="linkedin" width="50" height="50"/></a>&nbsp; 
+
+<!-- icons for tech stack https://devicon.dev/ -->
+<!-- icons for connect me https://www.iconfinder.com/ -->
