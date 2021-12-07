@@ -26,6 +26,7 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>&nbsp;
   <a href="https://redux.js.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>&nbsp;
   <a href="https://jestjs.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/></a>&nbsp;
+    <a href="https://jasmine.github.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain-wordmark.svg" alt="jasmine" width="40" height="40"/></a>&nbsp;
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nixyar&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
