@@ -22,6 +22,7 @@
   <a href="https://www.javascript.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/></a>&nbsp;
   <a href="https://jquery.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/></a>&nbsp;
   <a href="https://angular.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/></a>&nbsp;
+  <a href="https://rxjs.dev/" target="_blank"> <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="rxjs" width="40" height="40"/></a>&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/></a>&nbsp;
   <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>&nbsp;
   <a href="https://redux.js.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>&nbsp;
@@ -29,7 +30,6 @@
     <a href="https://jasmine.github.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain-wordmark.svg" alt="jasmine" width="40" height="40"/></a>&nbsp;
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nixyar&layout=compact&langs_count=8&theme=algolia"/>
 </p>
-
 
 ##
 ### 🤙 Connect with Me
