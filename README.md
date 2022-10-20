@@ -33,7 +33,7 @@
 
 ##
 ### 🤙 Connect with Me
-  <a href="t.me/nixyar" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png" alt="telegram" width="50" height="50"/></a>&nbsp; 
+  <a href="https://t.me/nixyar" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png" alt="telegram" width="50" height="50"/></a>&nbsp; 
 <!--   <a href="https://www.linkedin.com/in/oleg-kozlov-4191a0217/" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="linkedin" width="50" height="50"/></a>&nbsp;  -->
 
 <!-- icons for tech stack https://devicon.dev/ -->
