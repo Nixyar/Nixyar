@@ -4,7 +4,7 @@
 ##
 ### :octocat: About Me
 
-💻&nbsp;I'm middle Frontend-developer:)\
+💻&nbsp;I'm senior Fullstack-developer and Team-lead:)\
 💁‍♂️&nbsp;Started my way in [Picasel Agency](https://picasel.agency/) on Angular❤️\
 🎓&nbsp;I'm studied at the Moscow Institute of Radio Engineering, Electronics and Automation.\
 💡&nbsp;I'm enjoy learning and developing in frontend development. Constantly read articles and attend conferences.\
