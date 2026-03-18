@@ -8,7 +8,6 @@
 ⚡&nbsp;Specializing in Angular & React — scalable architecture, RxJS, performance&nbsp;<br>
 🏦&nbsp;Fintech experience: Alfa-Bank, OTP Bank, investment platforms&nbsp;<br>
 🛠&nbsp;Building products with AI: [lunova-todo.ru](https://lunova-todo.ru) · [vibecoderai.ru](https://vibecoderai.ru)&nbsp;<br>
-💡&nbsp;I'm enjoy learning and developing in frontend development. Constantly read articles and attend conferences.&nbsp;<br>
 📍&nbsp;Moscow · Open to remote&nbsp;<br>
   
 ##
