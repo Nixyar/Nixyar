@@ -4,12 +4,12 @@
 ##
 ### :octocat: About Me
 
-🚀&nbsp;Senior Frontend Engineer with 5+ years in fintech and enterprise apps
-⚡&nbsp;Specializing in Angular & React — scalable architecture, RxJS, performance
-🏦&nbsp;Fintech experience: Alfa-Bank, OTP Bank, investment platforms
-🛠&nbsp;Building products with AI: [lunova-todo.ru](https://lunova-todo.ru) · [vibecoderai.ru](https://vibecoderai.ru)
-💡&nbsp;I'm enjoy learning and developing in frontend development. Constantly read articles and attend conferences.\
-📍&nbsp;Moscow · Open to remote
+🚀&nbsp;Senior Frontend Engineer with 5+ years in fintech and enterprise apps&nbsp;
+⚡&nbsp;Specializing in Angular & React — scalable architecture, RxJS, performance&nbsp;
+🏦&nbsp;Fintech experience: Alfa-Bank, OTP Bank, investment platforms&nbsp;
+🛠&nbsp;Building products with AI: [lunova-todo.ru](https://lunova-todo.ru) · [vibecoderai.ru](https://vibecoderai.ru)&nbsp;
+💡&nbsp;I'm enjoy learning and developing in frontend development. Constantly read articles and attend conferences.&nbsp;
+📍&nbsp;Moscow · Open to remote&nbsp;
   
 ##
 ### 🛠 &nbsp;Tech Stack
