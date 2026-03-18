@@ -4,11 +4,12 @@
 ##
 ### :octocat: About Me
 
-💻&nbsp;I'm senior Fullstack-developer and Team-lead:)\
-💁‍♂️&nbsp;Started my way in [Picasel Agency](https://picasel.agency/) on Angular❤️\
-🎓&nbsp;I'm studied at the Moscow Institute of Radio Engineering, Electronics and Automation.\
+🚀&nbsp;Senior Frontend Engineer with 5+ years in fintech and enterprise apps
+⚡&nbsp;Specializing in Angular & React — scalable architecture, RxJS, performance
+🏦&nbsp;Fintech experience: Alfa-Bank, OTP Bank, investment platforms
+🛠&nbsp;Building products with AI: [lunova-todo.ru](https://lunova-todo.ru) · [vibecoderai.ru](https://vibecoderai.ru)
 💡&nbsp;I'm enjoy learning and developing in frontend development. Constantly read articles and attend conferences.\
-🍤&nbsp;In my free time, I ride on snowboard, watch tech movies on YouTube and think about new project ideas.
+📍&nbsp;Moscow · Open to remote
   
 ##
 ### 🛠 &nbsp;Tech Stack
